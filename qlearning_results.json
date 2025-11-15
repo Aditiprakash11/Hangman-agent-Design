@@ -1,0 +1,19 @@
+{
+  "agent_type": "qlearning",
+  "best_params": {
+    "alpha": 0.1,
+    "gamma": 0.9,
+    "epsilon_decay": 0.997
+  },
+  "test_results": {
+    "total_games": 7498,
+    "wins": 1499,
+    "success_rate": 0.19991997866097627,
+    "total_wrong_guesses": 41766,
+    "avg_wrong_guesses": 5.570285409442518,
+    "total_repeated_guesses": 0,
+    "avg_repeated_guesses": 0.0,
+    "final_score": -207331.0
+  },
+  "training_episodes": 20000
+}
